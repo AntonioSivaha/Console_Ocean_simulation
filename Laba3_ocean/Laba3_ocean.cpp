@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <conio.h>
 #include <fstream>
 #include "ocean.h"
@@ -92,8 +92,6 @@ int main()
 	}
 	if (input == '\033')
 		return 0; // ESC
-
-
 
 
 	srand(time(0));
