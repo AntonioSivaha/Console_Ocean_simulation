@@ -1,3 +1,0 @@
-/home/antonio/University/2 course/PPvIS/my_lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/antonio/University/2 course/PPvIS/my_lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/antonio/University/2 course/PPvIS/my_lab3/cmake-build-debug/CMakeFiles/my_lab3.dir
