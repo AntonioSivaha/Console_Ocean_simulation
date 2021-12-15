@@ -1,0 +1,21 @@
+﻿  Laba3_ocean.cpp
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.h(379,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\Laba3_ocean.cpp(99,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\Laba3_ocean.cpp(69,7): warning C4101: 'test': unreferenced local variable
+  ocean.cpp
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.h(379,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(69,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(70,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(71,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(72,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(73,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(74,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(75,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(709,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(742,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(959,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(992,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(1271,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\University\2 course\PPvIS\lab3\Laba3_ocean\Laba3_ocean\ocean.cpp(1304,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Laba3_ocean.vcxproj -> D:\University\2 course\PPvIS\lab3\Laba3_ocean\x64\Debug\Laba3_ocean.exe
