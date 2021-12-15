@@ -60,7 +60,7 @@ namespace ocean_life
 		char type;
 		int age, id, hp, hp_max, food, food_max, moves;
 		bool isMale;
-		int location[3]; //3 coordinates - x, y, index
+		int location[3]; // 3 coordinates - x, y, index
 	public:
 		char get_type()
 		{
@@ -329,7 +329,7 @@ namespace ocean_life
 
 		void Plankton_age(Plankton* p_obj, int order);
 
-		//PASSIVES
+		// PASSIVES
 
 		void Passive_move(Passive* c_obj);
 
@@ -339,7 +339,7 @@ namespace ocean_life
 
 		void Passive_age(Passive* c_obj, int order);
 
-		//NEUTRALS
+		// NEUTRALS
 
 		void Neutral_move(Neutral* c_obj);
 
@@ -349,7 +349,7 @@ namespace ocean_life
 
 		void Neutral_age(Neutral* c_obj, int order);
 
-		//AGGRESSIVES
+		// AGGRESSIVES
 
 		void Aggressive_move(Aggressive* c_obj);
 
@@ -359,7 +359,7 @@ namespace ocean_life
 
 		void Aggressive_age(Aggressive* c_obj, int order);
 
-		//EVERYTHING ELSE
+		// EVERYTHING ELSE
 
 		Plankton& return_plankton(int x, int y);
 
@@ -371,7 +371,7 @@ namespace ocean_life
 
 		Whale& return_whale(int x, int y);
 
-		int empty_place(int x, int y, bool isPlankton); //checking what cell is available for moving into
+		int empty_place(int x, int y, bool isPlankton); // checking what cell is available for moving into
 
 	public:
 		Ocean_master(int width_inp, int height_inp)
