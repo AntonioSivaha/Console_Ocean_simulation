@@ -3,7 +3,6 @@
 Created by AntonioSivaha and Nepare
 
 
-RUN IN VISUAL C++!
 
 This programm simulated ocean life in cmd. You can create custom simulation or load from .txt file or use standart. 
 There are 7 different types of ocean organisms in this project:
